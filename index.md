@@ -7,7 +7,7 @@ This is a weekly gathering of motivated students and faculty looking to get thin
 
 ### Where?
 
-For Fall Semester 2016 we will meet in our new maker-space Smith Hall 210!  Every Friday afternoon (roughly 2-5), but you're under no obligation to be there on time or to stay the whole time.  When changes happen we'll update this page with new details.   Also there is a [GroupMe Channel where we can stay in contact.](https://groupme.com/join_group/17823241/nO0dGH)
+For Spring Semester 2018 we will meet in our new maker-space the Evans Hall iSuites!  Every Friday afternoon (roughly 2-5), but you're under no obligation to be there on time or to stay the whole time.  When changes happen we'll update this page with new details.   Also there is a [Slack Channel where we can stay in contact.](https://udcoe.slack.com/signup)
 
 ### Structure?
 
